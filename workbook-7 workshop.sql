@@ -26,5 +26,6 @@ SELECT *
 FROM CarDealershipDatabase.Sales_Contracts
 WHERE VIN = 1212
 
-
-
+SELECT * 
+FROM CarDealershipDatabase.Sales_Contracts
+WHERE Order_Date = "2024-11-21 01:05:06";
